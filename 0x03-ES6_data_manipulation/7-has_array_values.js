@@ -1,6 +1,6 @@
 /*
  * File: 7-has_array_values.js
- * Auth: Ukonu Divine Chisom
+ * Auth: Ojo Obafemi David
  */
 
 /**
